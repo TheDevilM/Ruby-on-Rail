@@ -10,3 +10,4 @@ class ApplicationController < ActionController::Base
     render html: "Bienvenido, #{@nombre}!"
   end
 end
+ #Se hizo un cambio 
